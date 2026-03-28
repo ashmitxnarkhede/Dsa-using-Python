@@ -37,7 +37,7 @@ class Solution:
                 if nums[i] + nums[j] == target:
                     return [i, j]
         return []
-   
+#Time Completxity: O(n^2)   
 
 
 

@@ -32,14 +32,31 @@ Only one valid answer exists.
 #Method 1
 class Solution:
     def twoSum(self,nums,target):
+        
+        """
         for i in range(len(nums)):
             for j in range(i + 1, len(nums)):
                 if nums[i] + nums[j] == target:
                     return [i, j]
         return []
+        """
+        
 #Time Completxity: O(n^2)   
 
+#Two Pointers Approach
+        left=0
+        right=len(nums)-1
 
+        while left<right:
+            curr_sum=nums[left]+nums[right]
+            if curr_sum==target:
+                return([left,right])
+                left+=1
+                right-=1
+            elif sum<target:
+                left+=1
+            else:
+                right-=1
 
 
 

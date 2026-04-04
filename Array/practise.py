@@ -20,8 +20,8 @@ print("Total count of items in the list:", len(numbers))
 
 #Two Pointers Approach
 #sorted array
-nums=[1,2,3,4,5,6]
-target=8
+#nums=[1,2,3,4,5,6]
+#target=8
 """
 for i in range(len(nums)):
     for j in range(i+1, len(nums)):
@@ -30,7 +30,7 @@ for i in range(len(nums)):
 """
 
 #Optimizing for two pointer technique
-
+"""
 left=0
 right=len(nums)-1
 
@@ -41,6 +41,32 @@ while left<right:
         left+=1
         right-=1
     elif sum<target:
+        left+=1
+    else:
+        right-=1
+        """
+"""        
+Use the Two Pointer technique to find ALL pairs 
+that add up to 20.
+
+Expected output:
+Pair found: 2 + 18 = 20
+Pair found: 6 + 14 = 20
+Pair found: 10 + 10 = 20  ← wait, is this possible here? 🤔
+"""
+numbers = [2, 4, 6, 8, 10, 14, 18]
+target=20
+
+left=0
+right=len(numbers)-1
+
+while left<=right:
+    curr_sum=numbers[left]+numbers[right]
+    if curr_sum==target:
+        print(f"Pair found: {numbers[left]} + {numbers[right]} = {target}")
+        left+=1
+        right-=1
+    elif curr_sum<target:
         left+=1
     else:
         right-=1

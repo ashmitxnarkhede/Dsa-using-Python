@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0392-is-subsequence) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->

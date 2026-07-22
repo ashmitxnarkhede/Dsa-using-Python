@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -43,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0135-candy) |
 <!---LeetCode Topics End-->

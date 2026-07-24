@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0015-3sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0189-rotate-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0392-is-subsequence) |
 ## String
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0135-candy) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

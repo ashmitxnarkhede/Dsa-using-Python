@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0209-minimum-size-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Hash Table
 |  |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

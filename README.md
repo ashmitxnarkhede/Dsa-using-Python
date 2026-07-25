@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

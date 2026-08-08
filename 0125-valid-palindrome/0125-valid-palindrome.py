@@ -6,17 +6,17 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        s=s.lower()
-        s=s.strip()
-        s=re.sub(r'[^a-zA-Z0-9]', '', s)
-        
-        n=len(s)
-        left,right=0,n-1
 
-        while left<right:
-            if s[left]==s[right]:
-                left+=1
-                right-=1
-            else:
+        l,r=0,len(s)-1
+        while l<r:
+                
+            while l<r and not s[l].isalnum():
+                l+=1
+            while l<r and not s[r].isalnum():
+                r-=1
+            if s[l].lower() != s[r].lower():
                 return False
+            else:
+                l+=1
+                r-=1
         return True

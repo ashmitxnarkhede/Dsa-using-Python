@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0392-is-subsequence) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

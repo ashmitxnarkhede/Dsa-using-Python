@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/0584-find-customer-referee) |
 | [1280-students-and-examinations](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/1280-students-and-examinations) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/ashmitxnarkhede/Dsa-using-Python/tree/master/1934-confirmation-rate) |
